@@ -1,2 +1,3 @@
 # TIL
-Today I Larned..
+
+git너무 어려운데 열심히 해보도록 하겠습니다.
